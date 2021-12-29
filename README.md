@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Startup for kids education
-- - 🌱 I’m currently learning Flutter and dart
+- 🌱 I’m currently learning Flutter and dart
 - 💬 I'm Interesting about Raspberry pi, iOS, MacOS
 - dont forget check my [gist](https://gist.github.com/rampfox) too
 
