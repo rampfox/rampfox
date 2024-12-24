@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Startup for kids education
-- 🌱 I’m currently learning Flutter and dart
+- 🔭 I’m currently working on Financial Institution
+- 🌱 I’m currently learning IT Security~~Flutter~~ and ~~dart~~
 - 💬 I'm Interesting about Raspberry pi, iOS, MacOS
 - dont forget check my [gist](https://gist.github.com/rampfox) too
 
